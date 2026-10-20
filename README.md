@@ -84,19 +84,19 @@ Important DAX measures include Total Sales, Total Profit, Profit Margin, Total O
 
 Presents headline KPIs, monthly sales and profit trends, regional performance and category-level results.
 
-![Executive Overview dashboard](executive-overview.png)
+![Executive Overview dashboard](screenshots/executive-overview.png)
 
 ### 2. Product and Profitability Analysis
 
 Examines category and subcategory profitability, discount performance, loss-making areas and the relationship between sales and profit.
 
-![Product and Profitability dashboard](product-profitability.png)
+![Product and Profitability dashboard](screenshots/product-profitability.png)
 
 ### 3. Customers, Returns and Shipping
 
 Highlights leading customers, customer segments, repeat-customer behaviour, category return rates and shipping-mode performance.
 
-![Customers, Returns and Shipping dashboard](customer-returns.png)
+![Customers, Returns and Shipping dashboard](screenshots/customer-returns.png)
 
 ## Headline results
 
