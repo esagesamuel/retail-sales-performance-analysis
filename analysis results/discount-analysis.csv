@@ -1,0 +1,5 @@
+"discount_band","order_lines","orders","average_discount_percentage","sales","profit","profit_margin_percentage"
+"No Discount",4925,2714,0.00,1105323.79,326718.83,29.56
+"Low Discount",96,91,10.00,54952.44,9100.00,16.56
+"Medium Discount",3988,2561,20.51,905972.04,81986.30,9.05
+"High Discount",1185,904,63.83,260286.25,-125507.56,-48.22
